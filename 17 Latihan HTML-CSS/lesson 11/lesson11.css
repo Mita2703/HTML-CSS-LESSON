@@ -1,0 +1,39 @@
+.kotak1 {
+  display: grid;
+  grid-template-columns: 200px 75px;
+}
+
+.grid1 {
+  background-color: skyblue;
+  font-weight: bold;
+}
+
+.grid2 {
+  background-color: salmon;
+  font-weight: bold;
+}
+.k2 {
+  display: grid;
+  grid-template-columns: 75px 300px 75px;
+}
+.grid3 {
+  background-color: skyblue;
+  font-weight: bold;
+}
+
+.grid4 {
+  background-color: salmon;
+  font-weight: bold;
+}
+
+.k3 {
+  display: grid;
+  grid-template-rows: 20px 10px;
+  grid-template-columns: 120px 120px 120px 120px;
+  gap: 10px;
+}
+
+.grid5 {
+  background-color: salmon;
+  font-weight: bold;
+}

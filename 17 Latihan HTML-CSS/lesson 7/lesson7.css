@@ -1,0 +1,82 @@
+.mita {
+ border: 1px;
+ width: 200px;
+ object-fit: cover;
+ border-radius: 15px;
+}
+
+.tata {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.taaa {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+#search{
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+
+}
+
+#google {
+  width: 350px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
+}
+
+#email {
+  width: 350px;
+  height: 25px;
+}
+
+#gmail {
+  color: grey;
+  margin: 3px;
+  font-family: Arial;
+  font-size: 15px;
+}
+
+#by {
+  font-family: Arial;
+  font-size: 15px;
+  color: grey;
+}
+
+#join {
+  width: 350px;
+  height: 40px;
+  font-size: 17px;
+  font-family: Arial;
+  border: none;
+  color: white;
+  background-color: rgb(15, 82, 206);
+  border-radius: 40px;
+}
+.mit-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  vertical-align: middle
+ } 
+.text {
+  padding: 8px 5px;
+  width: 230px;
+  border: none; 
+}
+.twt {
+  background-color: rgb(63, 143, 223);
+  color: white;
+  padding: 7px 15px;
+  border: none;
+  border-radius: 20px;
+}
+

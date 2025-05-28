@@ -1,0 +1,150 @@
+.box1 {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  padding: 10px;
+  width: 300px;
+}
+
+.cat {
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  object-fit: cover;
+}
+
+.vertikal {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.name {
+  font-size: 14px;
+  font-family: calibri;
+  font-weight: 600;
+  margin-bottom: 3px;
+}
+
+.thecat {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: rgb(80, 79, 79);
+  margin-bottom: 2px;
+}
+
+.popular {
+  font-family: sans-serif;
+  font-size: 12px;
+  color: rgb(80, 79, 79);
+  margin-bottom: 2px;
+}
+
+.follow1 {
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: rgb(0, 123, 255);
+  font-family: sans-serif;
+  padding: 8px 16px;
+  color: white;
+}
+
+.kotak2{
+  display: flex;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 400px;
+}
+
+.video{
+  border: none;
+  width: 136px;
+  height: 78px;
+  margin-right: 10px;
+  object-fit: cover;
+}
+
+.br{
+  padding: 0px;
+}
+
+.vertical2{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.judul{
+  font-family: calibri;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.chanel{
+  font-family: calibri;
+  font-size: 13px;
+  color: rgb(80, 79, 79);
+  margin-top: 3px;
+  margin-bottom: 2px;
+}
+
+.view{
+  font-family: calibri;
+  font-size: 13px;
+  color: rgb(80, 79, 79);
+}
+
+.following2 {
+ width: 140px;
+ height: 230px;
+ display: inline-block;
+ box-shadow: 1px 1px 10px;
+ border-radius: 1px;
+ margin-right: 30px;
+}
+
+.marah{
+  width: 140px;
+  height: 130px;
+}
+
+.user2 {
+  font-family: Arial;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 0;
+  margin-left: 5px;
+}
+
+.mutual3 {
+  font-family: Arial;
+  font-size: 13px;
+  color: grey;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  margin-left: 2px;
+  display: inline-block;
+}
+
+#add3{
+  background-color: rgb(63, 143, 223);
+  border: none;
+  color: white;
+  width: 95px;
+  height: 30px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+
+.kece {
+  border: none;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+ 
